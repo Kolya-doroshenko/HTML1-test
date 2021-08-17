@@ -6,3 +6,35 @@ body{
 .content{
 	width: 960px;
 }
+.Block2{
+	width: 283px;
+	height: 110px;
+	background:#777777;
+	margin-left: 22px;
+}
+.header{
+	display: flex;
+}
+.Block3{
+	width: 510px;
+	height: 110px;
+	background:#777777;
+	margin-left: 22px;
+}
+.contact{
+	color:#FFFFFF;
+	text-align:right;
+	margin-right:10px;
+}
+a{
+	color:#FFFFFF;
+}
+ul{
+	list-style-type: none;
+}
+.Block4{
+	width: 230px;
+	height: 100px;
+	background:#777777;
+	font-size: 14px;
+	color:#FFFFFF;
