@@ -174,3 +174,73 @@ a{
 	margin-top: 23px;
 	margin-left: 19px;
 }
+.line2{
+	margin-top: 25px;
+}
+.foot{
+	width: 960px;
+	height: 180px;
+	margin: 0 auto;
+	margin-top: 24px;
+}
+.Block10{
+	width: 297px;
+	height: 180px;
+	background-color: grey;
+	float: left;
+}
+.Block10text li{
+	list-style-type: none;
+	margin-right: 75px;
+}
+.Block10text{
+	width: 297px;
+	height: 165px;
+	color: #ffffff;
+	font-family: "Arial";
+	font-size: 14px;
+	font-weight: 400;
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: 22px;
+	text-align: left;
+	display: flex;
+	flex-flow: column wrap;
+	margin-top: 18px;
+	margin-left: 25px;
+}
+.foot-right{
+	width: 308px;
+	height: 180px;
+	float: right;
+}
+.Block12{
+	width: 308px;
+	height: 77px;
+	background-color:#777777;
+}
+.Block13{
+	margin-top: 26px;
+}
+.Block11 ul{
+	list-style-type: square;
+	width: 220px;
+	height: 146px;
+	color: #ffffff;
+	font-family: "Arial";
+	font-size: 14px;
+	line-height: 20px;
+	font-weight: lighter;
+	text-align: left;
+	font-style: normal;
+	letter-spacing: normal;
+	display: flex;
+	flex-flow: column wrap;
+	justify-content: space-between;
+}
+.Block11{
+	width: 297px;
+	height: 180px;
+	background-color:#777777;
+	margin: 0 336px 0 325px;
+}
