@@ -29,12 +29,49 @@ body{
 a{
 	color:#FFFFFF;
 }
-ul{
+ul {
 	list-style-type: none;
+}
+.line1{
+    margin-top: 19px;
+}
+.leftcol{
+    	float: left;
+    	display: flex;
+    	flex-direction: column;
+    	justify-content: space-between;
+    	width: 184px;
+    	height:773px;
 }
 .Block4{
 	width: 230px;
-	height: 100px;
+	height: 335px;
 	background:#777777;
 	font-size: 14px;
 	color:#FFFFFF;
+    	font-family: "Arial";
+    	font-size: 14px;
+    	font-weight: 400;
+    	font-style: normal;
+    	letter-spacing: normal;
+    	line-height: 22px;
+    	text-align: left;
+    	margin-top: 19px;
+    	margin-left: 13px;
+}
+.Block5{
+    	color: #777777;
+    	font-family: Arial;
+    	font-size: 14px;
+    	font-weight: 400;
+    	font-style: normal;
+    	letter-spacing: normal;
+    	line-height: 22px;
+    	text-align: left;
+    	margin-top: 22px;
+    	margin-left: 20px;
+    	float: right;
+    	width: 666px;
+    	height: 210px;
+    	background-color: lightgrey;
+}
